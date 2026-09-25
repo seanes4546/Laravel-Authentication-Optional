@@ -1,0 +1,2 @@
+Laravel authentication sean 20242039
+https://github.com/seanes4546/Laravel-Authentication-Optional.git
