@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple Dashboard App</title>
-    <link href="https://jsdelivr.net" rel="stylesheet">
+    <script src="{{ asset('js/jquery.js') }}"></script>
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+    <script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
 </head>
 <body class="bg-light d-flex align-items-center justify-content-center vh-100">
     <div class="text-center p-5 shadow bg-white rounded" style="max-width: 600px;">
