@@ -10,8 +10,8 @@
 </head>
 <body class="bg-light d-flex align-items-center justify-content-center vh-100">
     <div class="text-center p-5 shadow bg-white rounded" style="max-width: 600px;">
-        <h1 class="display-4 fw-bold text-primary mb-3">Selamat Datang!</h1>
-        <p class="lead text-muted mb-4">Aplikasi Simple Dashboard Mahasiswa dengan fitur autentikasi terintegrasi.</p>
+        <h1 class="display-4 fw-bold text-primary mb-3">Welcome!</h1>
+        <p class="lead text-muted mb-4">Authentication Login</p>
         
         @if (Route::has('login'))
             <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
